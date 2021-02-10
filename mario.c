@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int height=0;
 void pyramid(int v);
 
